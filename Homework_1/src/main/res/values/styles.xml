@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MainStyle">
+        <item name="android:textColor">@color/blackColor</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="GreyStyle">
+        <item name="android:textColor">@color/greyColor</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="PurpleStyle">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="NewPurple" parent="PurpleStyle">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="BasicStyle">
+        <item name="android:textColor">@color/blackColor</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:tint">@color/buttonColor</item>
+        <item name="android:backgroundTint">android/color/transparent</item>
+    </style>
+
+    <style name="dividerStyle">
+        <item name="android:background">@color/divider</item>
+    </style>
+
+
+</resources>

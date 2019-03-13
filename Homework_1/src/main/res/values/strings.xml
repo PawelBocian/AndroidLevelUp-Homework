@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="julia">Julianna Carter</string>
+    <string name="photo">Photogapher</string>
+    <string name="pos">1.5 K</string>
+    <string name="foll">17.8 K</string>
+    <string name="folli">1.3 K</string>
+    <string name="posts">Posts</string>
+    <string name="follow">Followers</string>
+    <string name="followin">Following</string>
+    <string name="website">Website</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="locat">Location</string>
+    <string name="web">visual-photo.me</string>
+    <string name="mail">juliana.c@mail.com</string>
+    <string name="pho">(022)77723287</string>
+    <string name="lo">United State</string>
+    <string name="strange_txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie. Fusce quis mauris a enim sollicitudin</string>
+</resources>
