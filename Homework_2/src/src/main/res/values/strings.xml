@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android LevelUp</string>
+    <string name="all_movies">All Movies</string>
+    <string name="action">Action</string>
+    <string name="comedy">Comedy</string>
+    <string name="crime">Crime</string>
+    <string name="horror">Horror</string>
+    <string name="romance">Romance</string>
+</resources>
